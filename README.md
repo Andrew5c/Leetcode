@@ -1,2 +1,6 @@
 
 this is my programming in leetcode!!
+
+leetcode is great...
+
+programming everyday...
